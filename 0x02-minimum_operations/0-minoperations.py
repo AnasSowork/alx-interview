@@ -12,6 +12,7 @@ def minOperations(n):
     return operations
 
 
+
 # Main file for testing
 if __name__ == "__main__":
     n = 4
